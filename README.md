@@ -12,7 +12,7 @@ Unity VR project built with **Unity 6000.4.0f1**.
 1. Clone the repository:
    ```powershell
    git clone https://github.com/sangabadri/Excavator-VR.git
-   cd Excavator
+   cd Excavator-VR
    git lfs pull
    ```
 2. Open the project folder in Unity Hub.
